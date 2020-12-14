@@ -7,13 +7,13 @@ While the code helps getting a better understanding of the implementations of th
 ## Authors
 * David Beavan, The Alan Turing Institute
 * Fazl Barez, University of Edinburgh
-* Mark Bell, The National Archives
+* Mark Bell, The National Archives, UK
 * John Fitzgerald, University of Oxford
 * Konrad Kollnig, University of Oxford
 * Federico Nanni, The Alan Turing Institute
 * Tariq Rashid, Digital Dynamics
 * Sandro Sousa, Queen Mary University of London
-* Tom Storrar, The National Archives
+* Tom Storrar, The National Archives, UK
 * Kirill Svetlov, Saint Petersburg State University
-* Leontien Talboom, The National Archives and University College London
+* Leontien Talboom, The National Archives, UK and University College London
 * Aude Vuilliomenet, University College London
